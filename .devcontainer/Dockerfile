@@ -1,6 +1,6 @@
 FROM debian:bullseye-slim
 
-ARG USERNAME=vscode
+ARG USERNAME=kyle
 ARG USER_UID=1000
 ARG USER_GID=$USER_UID
 
